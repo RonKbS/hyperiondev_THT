@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "num-words": "git+https://github.com/RonKbS/num-words.git#c8262b55253b560272e45ee84787a0b437d517bb"
+  }
+}
